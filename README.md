@@ -1,8 +1,8 @@
 # Hi 👋, I'm Edwin Awariyah
 
 ## About Me
-I am a third-year Computer Science student at Ashesi University, Ghana. 
-I enjoy building projects with AI & ML with embedded systems as well as software engineering projects.
+I am a third-year Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
+<br>I enjoy building projects with AI & ML with embedded systems as well as software engineering projects.
 
 - 🔭 I’m currently working on [A smart library management system](https://experiment/mobile-first-wireframe-netlify/c)
 - 🌱 I’m currently learning **React Native**
@@ -40,18 +40,21 @@ I enjoy building projects with AI & ML with embedded systems as well as software
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
-### Mobile App Development
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</p>
-
 ### AI/ML
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-1.svg" alt="micropython" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="seaborn" width="40" height="40"/>
+  
+</p>
+
+### Mobile App Development
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </p>
 
 ### Other Tools
@@ -59,37 +62,16 @@ I enjoy building projects with AI & ML with embedded systems as well as software
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" width="40" height="40"/>
+  <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" height="40"/>
 </p>
 
 ## GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eawariyah&show_icons=true&locale=en&layout=compact" alt="eawariyah" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eawariyah&show_icons=true&locale=en" alt="eawariyah" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eawariyah" alt="eawariyah" />
+  <img align="left" width = 25% src="https://github-readme-stats.vercel.app/api/top-langs?username=eawariyah&show_icons=true&locale=en&layout=compact" alt="eawariyah" />
+  <img align="center" width = 32%  src="https://github-readme-stats.vercel.app/api?username=eawariyah&show_icons=true&locale=en" alt="eawariyah" />
+  <img align="right" width = 32%  src="https://github-readme-streak-stats.herokuapp.com/?user=eawariyah" alt="eawariyah" />
 </p>
-
-
-<!-- Optional: Add additional sections as needed -->
-
-## Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=eawariyah)
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## Open Source Contributions
-<!--START_SECTION:contributions-->
-<!--END_SECTION:contributions-->
-
-## WakaTime Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/eawariyah/count)
 
 
 
