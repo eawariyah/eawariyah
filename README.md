@@ -4,9 +4,6 @@
 I am a third-year Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
 <br>I enjoy building projects with AI & ML with embedded systems as well as software engineering projects.
 
-- 🔭 I’m currently working on [A smart library management system](https://experiment/mobile-first-wireframe-netlify/c)
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **IOT**
 - 📫 How to reach me: [edwin.awariyah@outlook.com](mailto:edwin.awariyah@outlook.com)
 - ⚡ Fun fact: I am an FL-Studio Alchemist
 
