@@ -5,7 +5,7 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
 <br>I enjoy building projects with AI & ML with embedded systems as well as software engineering projects.
 
 - 📫 How to reach me: [edwin.awariyah@outlook.com](mailto:edwin.awariyah@outlook.com)
-- 🎹 Fun fact: I am an FL-Studio Alchemist
+- 🎹 Fun fact: I am an FL-Studio Alchemist during my free time
 
 ## Connect with Me
 <p align="left">
