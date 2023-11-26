@@ -61,13 +61,13 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" height="40"/>
 </p>
 
-## GitHub Stats
+<!--## GitHub Stats
 
 <p align="center">
   <img align="left" width = 25% src="https://github-readme-stats.vercel.app/api/top-langs?username=eawariyah&show_icons=true&locale=en&layout=compact" alt="eawariyah" />
   <img align="center" width = 32%  src="https://github-readme-stats.vercel.app/api?username=eawariyah&show_icons=true&locale=en" alt="eawariyah" />
   <img align="right" width = 32%  src="https://github-readme-streak-stats.herokuapp.com/?user=eawariyah" alt="eawariyah" />
-</p>
+</p>-->
 
 
 
