@@ -15,6 +15,14 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
 
 ## Languages and Tools
 
+### Embedded Systems
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="seaborn" width="40" height="40"/>  
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="micropython" width="40" height="40"/>
+</p>
+
 ### Frontend Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -46,13 +54,6 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-### Embedded Systems
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="seaborn" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="micropython" width="40" height="40"/>
-</p>
 
 ### Mobile App Development
 <p align="left">
