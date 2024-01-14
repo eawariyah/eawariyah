@@ -34,6 +34,8 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg" alt="firebase" height="40"/>
+
 </p>
 
 ### AI/ML
@@ -42,9 +44,14 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-1.svg" alt="micropython" width="40" height="40"/>
+</p>
+
+### Embedded Systems
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="seaborn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="seaborn" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="seaborn" width="40" height="40"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="micropython" width="40" height="40"/>
 </p>
 
 ### Mobile App Development
@@ -59,6 +66,8 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="mysql" width="40" height="40"/>
+
 </p>
 
 <!--## GitHub Stats
