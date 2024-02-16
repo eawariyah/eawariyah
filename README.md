@@ -43,7 +43,7 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg" alt="firebase" height="40"/>
-        <img src="[https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg](https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png)" alt="firebase" height="40"/>
+        <img src="https://erwinstaal.nl/images/azure-iot-hub-450.png" alt="firebase" height="40"/>
 
 
 </p>
@@ -70,7 +70,6 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" height="40"/>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="mysql" width="40" height="40"/>
-      <img src="https://erwinstaal.nl/images/azure-iot-hub-450.png)=" alt="firebase" height="40"/>
 
 
 </p>
