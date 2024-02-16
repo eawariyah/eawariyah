@@ -2,7 +2,7 @@
 
 ## About Me
 I am a third-year Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
-<br>I enjoy building projects with AI & ML with embedded systems as well as software engineering projects.
+<br>I enjoy developing projects using AI & ML with IoT systems and embedded systems as well as software engineering projects.
 
 - 📫 How to reach me: [edwin.awariyah@outlook.com](mailto:edwin.awariyah@outlook.com)
 - 🎹 Fun fact: I am an FL-Studio Alchemist during my free time
@@ -43,6 +43,8 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg" alt="firebase" height="40"/>
+        <img src="[https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg](https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png)" alt="firebase" height="40"/>
+
 
 </p>
 
@@ -65,9 +67,11 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" height="40"/>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="mysql" width="40" height="40"/>
+      <img src="[https://firebase.google.com/images/brand-guidelines/logo-standard.png](https://erwinstaal.nl/images/azure-iot-hub-450.png)" alt="firebase" height="40"/>
+
 
 </p>
 
