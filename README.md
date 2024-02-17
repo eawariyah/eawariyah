@@ -42,7 +42,7 @@ I am a third-year Computer Science student at [Ashesi University, Ghana](https:/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://en.wikipedia.org/wiki/File:Ruby_On_Rails_Logo.svg" alt="firebase" height="40"/>
+  <img src="https://camo.githubusercontent.com/61135e092352a622c04c8564bc958cc757cc15909fb8499c01e6ab69d520da85/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73" alt="" height="40"/>
   <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" alt="firebase" height="40"/>
 
 
