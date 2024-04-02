@@ -4,7 +4,7 @@
 I am a third-year Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
 <br>I enjoy developing projects using AI & ML with IoT systems and embedded systems as well as software engineering projects.
 
--  ℹ️ Visit my website for more info: [Edwin Awariyah](https://eawariyah.github.io/Profile/index.html)
+-  ℹ️ Visit my website for more info: [edwinawariyah.com](https://eawariyah.github.io/Profile/index.html)
 - 📫 How to reach me: [edwin.awariyah@outlook.com](mailto:edwin.awariyah@outlook.com)
 - 🎹 Fun fact: I am an FL-Studio Alchemist during my free time
 
