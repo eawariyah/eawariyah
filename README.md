@@ -1,7 +1,7 @@
 # Hi 👋, I'm Edwin Awariyah
 
 ## About Me
-I am a third-year Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
+I am a Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
 <br>I enjoy developing projects using AI & ML with IoT systems and embedded systems as well as software engineering projects.
 
 -  ℹ️ Visit my website for more info: [edwinawariyah](https://eawariyah.github.io/Profile/index.html)
