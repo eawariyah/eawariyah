@@ -1,8 +1,8 @@
-# Hi 👋, I'm Edwin Awariyah
+# Hi, I'm Edwin Awariyah
 
 ## About Me
 I am a Computer Science student at [Ashesi University, Ghana](https://www.ashesi.edu.gh/). 
-<br>I enjoy developing projects using AI & ML with IoT systems and embedded systems as well as software engineering projects.
+<br>I enjoy developing projects using AI & ML with IoT systems and embedded systems as well as software engineering projects to solved critical but oftem overlooked problems.
 
 -  ℹ️ Visit my website for more info: [www.edwinawariyah.com](www.edwinawariyah.com)
 - 📫 How to reach me: [edwin.awariyah@outlook.com](mailto:edwin.awariyah@outlook.com)
@@ -22,7 +22,7 @@ I am a Computer Science student at [Ashesi University, Ghana](https://www.ashesi
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="seaborn" width="40" height="40"/>  
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" alt="micropython" width="40" height="40"/>
-  <img src="https://mqtt.org/assets/img/mqtt-logo-ver.jpg" alt="micropython" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" alt="micropython" width="40" height="40"/>
 
 </p>
 
@@ -74,7 +74,7 @@ I am a Computer Science student at [Ashesi University, Ghana](https://www.ashesi
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="firebase" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" height="40"/>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rust_lang_logo_icon_169776.png" alt="mysql" width="40" height="40"/>
             <img src="https://erwinstaal.nl/images/azure-iot-hub-450.png" alt="firebase" height="40"/>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/640px-Microsoft_Azure.svg.png" alt="" height="40"/>
