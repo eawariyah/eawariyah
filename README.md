@@ -6,7 +6,7 @@ I am a Computer Science student at [Ashesi University, Ghana](https://www.ashesi
 
 -  ℹ️ Visit my website for more info: [www.edwinawariyah.com](www.edwinawariyah.com)
 - 📫 How to reach me: [edwin.awariyah@outlook.com](mailto:edwin.awariyah@outlook.com)
-- 🎹 Fun fact: I am an FL-Studio Alchemist during my free time
+- 🎹 Fun fact: I am an FL-Studio Alchemist!
 
 ## Connect with Me
 <p align="left">
